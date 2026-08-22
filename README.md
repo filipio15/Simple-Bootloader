@@ -1,5 +1,5 @@
 # Simple Bootloader
-A very simple bootloader that loads the kernel.
+A very simple 16 bit bootloader that loads the kernel.
 
 ## Compiling
 
